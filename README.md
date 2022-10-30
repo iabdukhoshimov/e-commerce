@@ -107,10 +107,4 @@ Here's some tips:
 
 Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
-# :closed_book: License
 
-Released in 2020.
-This project is under the [MIT license](./LICENSE).
-
-Made with love by [RafaelGoulartB](https://github.com/RafaelGoulartB) 🚀
-# e-commerce
